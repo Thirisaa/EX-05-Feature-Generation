@@ -149,5 +149,4 @@ df2
 ![op14](https://user-images.githubusercontent.com/112301582/232964527-74011eae-4914-4287-8cfc-379cda363469.png)
 
 # RESULT
-Thus multivariate analysis on the given dataset was performed successfully.
-
+Thus feature generation process was performed successfully on the given dataset 
